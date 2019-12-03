@@ -1,0 +1,19 @@
+{
+  "name": "repoviz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gource2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelpalumbo/repoviz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelpalumbo/repoviz/issues"
+  },
+  "homepage": "https://github.com/michaelpalumbo/repoviz#readme"
+}
